@@ -1,11 +1,11 @@
-// exercise2.cpp (Sa)
-// based on:
-// main.cc (Andrew Gilpin, agg1@cec.wustl.edu)
-
-// This file contains a modification of the example program used in the 
-// gdb debugging tutorial. The tutorial can be found on the web at
-// http://students.cec.wustl.edu/~agg1/tutorial/
-
+/***********************************************
+* Fecha: 29 enero 2025
+* autor: Santiago Camargo Trujillo
+* materia: Estructura de Datos
+* Tópico:
+* PONTIFICIA UNIVERSIDAD JAVERIANA
+*
+***********************************************/
 #include <iostream>
 
 using namespace std;
